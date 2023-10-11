@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Height Mat
-  m_Shader: {fileID: -6465566751694194690, guid: f5e8401f825f4e446826aed9571b6530, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 3b0840b674d552a478e9e9b995b4f983, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -76,6 +76,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_cf5f9967c28a475097c82c25aa37f1a0_Texture_1_Texture2D:
+        m_Texture: {fileID: 10900, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -108,11 +112,11 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _Float: 10
+    - _Float: 15.5
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Hight: 0.0084
+    - _Hight: 0.008
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
